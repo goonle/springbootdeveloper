@@ -8,7 +8,7 @@ public class SpringbootdeveloperApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootdeveloperApplication.class, args);
-		//test
+		
 	}
 
 }
